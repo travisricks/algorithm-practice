@@ -1,4 +1,4 @@
-# Algorithm Practice
+# Algorithms Practice
 
 Pulled from various sources, this is a collection of algorithms for me to practice with.
 
@@ -13,6 +13,8 @@ Pulled from various sources, this is a collection of algorithms for me to practi
 These were basic and fairly simple, but it was good practice for writing algorithms and associated tests.
 
 - [Celsius to Fahrenheit](fcc-basic-algorithms/01/01-convert-celsius-to-fahrenheit.js)
+- [Reverse a String](fcc-basic-algorithms/02/02-reverse-a-string.js)
+- [Factorial Calculator](fcc-basic-algorithms/03/factorialize-a-number.js)
 
 ## Algorithms Not Solved (YET)
 
