@@ -4,7 +4,21 @@ Pulled from various sources, this is a collection of algorithms for me to practi
 
 ## Algorithms Solved
 
-- [Calculate Change Back](cc-loose-change/loose-change.js) - Given an input of XX¢, calculate the change back in quarters, dimes, nickels and pennies.
+### Source: Code Chrysalis
+
+- [Calculate Change Back](code-chrysalis-algorithms/loose-change/loose-change.js) - Given an input of XX¢, calculate the change back in quarters, dimes, nickels and pennies.
+
+### Source: [FreeCodeCamp Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
+
+These were basic and fairly simple, but it was good practice for writing algorithms and associated tests.
+
+- [Celsius to Fahrenheit](fcc-basic-algorithms/01/01-convert-celsius-to-fahrenheit.js)
+
+## Algorithms Not Solved (YET)
+
+### Source: Code Chrysalis
+
+- [Rotate Matrix](code-chrysalis-algorithms/rotate-matrix/rotate-matrix.js)
 
 ## Tests
 
