@@ -25,6 +25,7 @@ These were basic and fairly simple, but it was good practice for writing algorit
 - [Repeat a string n times](fcc-basic-algorithms/07-repeat-a-string/index.js) 😀
 - [Truncate a string](fcc-basic-algorithms/08-truncate-a-string/index.js) 😀
 - [Finders Keepers](fcc-basic-algorithms/09-finders-keepers/index.js) - return the first item in an array that passes a function. Learned about the built-in [find method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find), but figured it out myself first. 😀
+- [Boo who](fcc-basic-algorithms/10-boo-who/index.js) - check if an input is a Boolean primitive. 😀
 
 ### Source: Code Chrysalis
 
