@@ -13,8 +13,10 @@ largestOfArray([[17, 23, 25, 12], [25, 7, 34, 48], [4, -10, 18, 21], [-72, -3, -
 const largestOfArray = arr => {
   const result = [];
   for (const subArray of arr) {
-    result.push(subArray[0]);
+    result.push(subArray[0]); // start by pushing the first element of the subArray to results
+    // compare each other element against the first pushed element
     for (let i = 1; i < subArray.length; i++) {
+      // if its larger than replace last element in result array (aka the first subArray element that was pushed)
       if (subArray[i] > result[result.length - 1]) {
         result.splice(-1, 1, subArray[i]);
       }
