@@ -2,7 +2,7 @@
 
 Pulled from various sources, this is a collection of algorithms for me to practice with.
 
-### Self-imposed Difficulty scale:
+### Self-decided Difficulty scale:
 
 |     |           |
 | --- | --------- |
