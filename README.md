@@ -12,6 +12,7 @@ These were basic and fairly simple, but it was good practice for writing algorit
 - [Reverse a String](fcc-basic-algorithms/02/02-reverse-a-string.js)
 - [Factorial Calculator](fcc-basic-algorithms/03/factorialize-a-number.js)
 - [Find longest word in a string](fcc-basic-algorithms/04-find-longest-word/index.js)
+- [Find the largest value in an array of arrays](fcc-basic-algorithms/05-find-largest-value-in-array-of-arrays/index.js)
 
 ### Source: Code Chrysalis
 
