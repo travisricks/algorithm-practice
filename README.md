@@ -27,6 +27,7 @@ These were basic and fairly simple, but it was good practice for writing algorit
 - [Finders Keepers](fcc-basic-algorithms/09-finders-keepers/index.js) - return the first item in an array that passes a function. Learned about the built-in [find method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find), but figured it out myself first. 😀
 - [Boo who](fcc-basic-algorithms/10-boo-who/index.js) - check if an input is a Boolean primitive. 😀
 - [Convert sentence to title case](fcc-basic-algorithms/11-title-case/index.js) 👨‍🎓
+- [Slice and splice](fcc-basic-algorithms/12-slice-splice) - insert one array into another at a certain point without altering the two original arrays. 😀
 
 ### Source: Code Chrysalis
 
