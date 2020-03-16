@@ -28,6 +28,7 @@ These were basic and fairly simple, but it was good practice for writing algorit
 - [Boo who](fcc-basic-algorithms/10-boo-who/index.js) - check if an input is a Boolean primitive. 😀
 - [Convert sentence to title case](fcc-basic-algorithms/11-title-case/index.js) 👨‍🎓
 - [Slice and splice](fcc-basic-algorithms/12-slice-splice) - insert one array into another at a certain point without altering the two original arrays. 😀
+- [Falsy bouncer](fcc-basic-algorithms/13-falsy-bouncer/index.js) - remove all falsy values from an array 😀
 
 ### Source: Code Chrysalis
 
