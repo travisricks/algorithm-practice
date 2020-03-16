@@ -29,7 +29,7 @@ These were basic and fairly simple, but it was good practice for writing algorit
 - [Convert sentence to title case](fcc-basic-algorithms/11-title-case/index.js) 👨‍🎓
 - [Slice and splice](fcc-basic-algorithms/12-slice-splice) - insert one array into another at a certain point without altering the two original arrays. 😀
 - [Falsy bouncer](fcc-basic-algorithms/13-falsy-bouncer/index.js) - remove all falsy values from an array 😀
-- [Where do I belong?](fcc-basic-algorithms/14-where-do-I-belong/index.js) - find the index in an array where a number can be inserted while still keeping all values in ascending order 👨‍🎓
+- [Where do I belong?](fcc-basic-algorithms/14-where-do-I-belong/index.js) - find the index in an array where a number can be inserted assuming all values are put into ascending order 👨‍🎓
 
 ### Source: Code Chrysalis
 
