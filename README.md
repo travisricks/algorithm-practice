@@ -24,12 +24,13 @@ These were basic and fairly simple, but it was good practice for writing algorit
 - [Confirm the ending of a string](fcc-basic-algorithms/06-confirm-ending/index.js) 😀
 - [Repeat a string n times](fcc-basic-algorithms/07-repeat-a-string/index.js) 😀
 - [Truncate a string](fcc-basic-algorithms/08-truncate-a-string/index.js) 😀
-- [Finders Keepers](fcc-basic-algorithms/09-finders-keepers/index.js) - return the first item in an array that passes a function. Learned about the built-in [find method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find), but figured it out myself first. 😀
-- [Boo who](fcc-basic-algorithms/10-boo-who/index.js) - check if an input is a Boolean primitive. 😀
+- [Finders Keepers](fcc-basic-algorithms/09-finders-keepers/index.js) - Return the first item in an array that passes a function. Learned about the built-in [find method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find), but figured it out myself first. 😀
+- [Boo who](fcc-basic-algorithms/10-boo-who/index.js) - check if an input is a Boolean primitive 😀
 - [Convert sentence to title case](fcc-basic-algorithms/11-title-case/index.js) 👨‍🎓
-- [Slice and splice](fcc-basic-algorithms/12-slice-splice) - insert one array into another at a certain point without altering the two original arrays. 😀
+- [Slice and splice](fcc-basic-algorithms/12-slice-splice) - insert one array into another at a certain point without altering the two original arrays 😀
 - [Falsy bouncer](fcc-basic-algorithms/13-falsy-bouncer/index.js) - remove all falsy values from an array 😀
 - [Where do I belong?](fcc-basic-algorithms/14-where-do-I-belong/index.js) - find the index in an array where a number can be inserted assuming all values are put into ascending order 👨‍🎓
+- [Mutations](fcc-basic-algorithms/15-mutations/index.js) - check if a target string contains all letters from a test string 👨‍🎓
 
 ### Source: Code Chrysalis
 
