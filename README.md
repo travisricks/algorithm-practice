@@ -31,6 +31,7 @@ These were basic and fairly simple, but it was good practice for writing algorit
 - [Falsy bouncer](fcc-basic-algorithms/13-falsy-bouncer/index.js) - remove all falsy values from an array 😀
 - [Where do I belong?](fcc-basic-algorithms/14-where-do-I-belong/index.js) - find the index in an array where a number can be inserted assuming all values are put into ascending order 👨‍🎓
 - [Mutations](fcc-basic-algorithms/15-mutations/index.js) - check if a target string contains all letters from a test string 👨‍🎓
+- [Break an Array into Chunks](fcc-basic-algorithms/16-chunk-array-in-groups/index.js) 👨‍🎓
 
 ### Source: Code Chrysalis
 
