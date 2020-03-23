@@ -1,8 +1,8 @@
 # Algorithms Practice
 
-Pulled from various sources, this is a collection of algorithms for me to practice with.
+Pulled from various sources, this is a collection of algorithms that I solved to get more practice.
 
-### Self-decided Difficulty scale:
+#### Self-decided Difficulty scale:
 
 |     |           |
 | --- | --------- |
@@ -10,11 +10,12 @@ Pulled from various sources, this is a collection of algorithms for me to practi
 | 👨‍🎓  | medium    |
 | 🤬  | difficult |
 
+---
+
+
 ## Algorithms Solved
 
-### Source: [FreeCodeCamp Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
-
-These were basic and fairly simple, but it was good practice for writing algorithms and associated tests.
+**[FreeCodeCamp Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)** These were basic and fairly simple, but it was good practice for writing algorithms and associated tests.
 
 - [Celsius to Fahrenheit](fcc-basic-algorithms/01/01-convert-celsius-to-fahrenheit.js) 😀
 - [Reverse a String](fcc-basic-algorithms/02/02-reverse-a-string.js) 😀
@@ -33,13 +34,13 @@ These were basic and fairly simple, but it was good practice for writing algorit
 - [Mutations](fcc-basic-algorithms/15-mutations/index.js) - check if a target string contains all letters from a test string 👨‍🎓
 - [Break an Array into Chunks](fcc-basic-algorithms/16-chunk-array-in-groups/index.js) 👨‍🎓
 
-### Source: Code Chrysalis
+**Source: Code Chrysalis**
 
 - [Calculate Change Back](code-chrysalis-algorithms/loose-change/loose-change.js) - Given an input of XX¢, calculate the change back in quarters, dimes, nickels and pennies. 👨‍🎓
 
 ## Algorithms Not Solved (YET)
 
-### Source: Code Chrysalis
+**Source: Code Chrysalis**
 
 - [Rotate Matrix](code-chrysalis-algorithms/rotate-matrix/rotate-matrix.js)
 
